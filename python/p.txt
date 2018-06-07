@@ -1,0 +1,656 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[남북정상회담] '판문점 선언' 전문 : 네이버 포스트
+
+
+
+
+
+
+nhn=window.nhn||{};mug=nhn.mug=window.mug||{};mug.$=mug.$||{};mug.$.User={isLoggedIn:false,id:null,memberNo:null,type:"AUTHOR",blockType:""};mug.$.UserAgent={isInapp:false,isMobile:false,isTablet:false,isLolipopNaverApp:false,isInNaverApp:false,osName:"Etc",osVersion:"0",isEditProfileSupport:false,appSVC:"",appVer:"",isInBlogApp:false};mug.$.Props={jsDir:"https://ssl.pstatic.net/static.post/static/m/2018053001/js/min",cssDir:"https://ssl.pstatic.net/static.post/static/m/2018053001/css/min",ugcEditorUrl:"http://post.editor.naver.com",ugcEditorFlag:"true"==="true"};window.__jsLoad__=window.__jsLoad__||{};document.domain="naver.com";document.documentElement.setAttribute("data-useragent",navigator.userAgent);window.__mugFnList__=[];
+
+
+
+본문 바로가기
+
+
+
+
+이전화면으로 가기
+네이버
+포스트 beta
+
+시리즈팔로우
+팔로잉
+
+
+
+공유하기
+
+포스트 쓰기
+
+
+
+
+기본
+
+크게
+
+작성자 보기
+공유하기
+URL 복사
+네이버 북마크
+앱으로 보기
+신고
+
+
+
+
+
+
+
+
+		<div id="SEDOC-1528121737111-1805037381" class="se_doc_viewer se_body_wrap se_theme_default " data-docversion="1.0">
+<div class="se_doc_header_start" id="SEDOC-1528121737111-1805037381_se_doc_header_start"></div>
+<!-- SE_DOC_HEADER_START -->
+<div id="SEDOC-1528121737111-1805037381_viewer_head" class="se_viewer_head"></div>
+<div class="se_component_wrap">
+<div class="se_component se_documentTitle default  is-fill">
+    <div class="se_sectionArea is-fill se_align-left">
+        <!-- $SE3-TITLE_TOP Post Service placeholder --><a href="/my/series/detail.nhn?seriesNo=349530&memberNo=1580855&prevVolumeNo=15402547" onclick="mug.common.nclick(this, 'tit.series');"><div class="se_series"><i class="se_ico_series" style="display:none">스타에디터3</i><i class="se_ico_series" style="">시리즈</i><i class="se_ico_groupseries" style="display:none">콜라보</i>정치, 국회/정당</div></a><!-- $SE3-TITLE_TOP Post Service placeholder -->
+        <!-- SE_DOC_HEADER_TITLE_TOP-->
+     	<div id="SEDOC-1528121737111-1805037381_se_doc_title_top" class="se_doc_title_top"></div>
+        <div class="se_editArea">
+        	<div class="se_viewArea se_ff_nanumgothic se_fs_D2">
+	            <div class="se_editView se_title">
+	                <div class="se_textView">
+                        <h3 class="se_textarea">
+                            
+                            [남북정상회담] &#39;판문점 선언&#39; 전문
+                        </h3>
+                        
+                        
+	                </div>
+	            </div>
+	        </div>
+        </div><!-- SE_DOC_HEADER_TITLE_MIDDLE-->
+        <div id="SEDOC-1528121737111-1805037381_se_doc_title_middle" class="se_doc_title_middle"></div>
+        <!-- SE_DOC_HEADER_CONTENTS_START -->
+        <!-- $SE3-TITLE_CONTENTS Post Service placeholder --><div class="se_container"><a href="/my.nhn?memberNo=1580855" onclick="mug.common.nclick(this, 'tit.profile');" class="se_thumbnail"><img  src="https://ssl.pstatic.net/static.post/image/m/im/bg_white.png" data-src="https://post-phinf.pstatic.net/MjAxNzAzMjVfMTU2/MDAxNDkwNDQ0MTk2OTYy.9yJhTSz9c2Zb7O8P3XTJbbxKAkt6xiJNBsB3dbpiCAwg.w4frA852OXrKxJowpDYKZEKOEsnrQfO6e0TLoqsnkxQg.JPEG/post_6059794507225216701.jpg?type=f120_120" onerror="this.onerror=null;this.src='https://ssl.pstatic.net/static.post/image/im/img_default.gif'" alt="김기철 기자님의 프로필 사진"></a><div class="se_group"><div class="se_author_area"><p><a href="/my.nhn?memberNo=1580855" onclick="mug.common.nclick(this, 'tit.name');"><span class="se_author">김기철 기자</span></a></p><p style="display:none"><span class="ico_official"><i class="blind">공식</i></span></p><p><i class="se_divide_dot" style="display:none"></i><span class="se_follower" style="display:none">{=badgeName}</span></p></div><p class="se_detail"><span class="se_publishDate">2018.04.28. 03:36</span><i class="se_divide_line"></i><span class="se_view" style="">3,558 읽음 </span><span class="se_secret" style="display:none">비밀글</span></p></div><div class="flw_area"><a href="#" class="btn_stats __se3_stat_btn" style="display:none" onclick="mug.common.nclick(this, 'tit.stat');" target="_blank"><span>통계</span></a>
+</div></div><!-- $SE3-TITLE_CONTENTS Post Service placeholder -->
+        <!-- SE_DOC_HEADER_CONTENTS_END -->
+        <!-- SE_DOC_HEADER_TITLE_BOTTOM-->
+        <div id="SEDOC-1528121737111-1805037381_se_doc_title_bottom" class="se_doc_title_bottom"></div>
+    </div>
+</div>
+
+</div>
+<!-- {{{$SE3-CONTENTS_HEADER}}} -->
+<!-- SE_DOC_HEADER_END -->
+<div class="se_doc_header_end" id="SEDOC-1528121737111-1805037381_se_doc_header_end"></div>
+<div class="se_doc_contents_start" id="SEDOC-1528121737111-1805037381_se_doc_contents_start"></div>
+<!-- SE_DOC_CONTENTS_START -->
+<div class="se_component_wrap sect_dsc __se_component_area">
+    
+
+
+
+
+
+
+
+
+<div class="se_component se_paragraph default">
+    <div class="se_sectionArea">
+        <div class="se_editArea">
+            <div class="se_viewArea se_ff_nanumgothic se_fs_T3 se_align-left" >
+                <div class="se_editView">
+                    <div class="se_textView">
+                        <p class="se_textarea"><!-- SE3-TEXT { --><span><br></span><span></span><!-- } SE3-TEXT --></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+		<div class="se_component se_image default">
+			<div class="se_sectionArea se_align-justify">
+				<div class="se_editArea">
+					<div class="se_viewArea" >
+        <a href="#" onclick="return false;" class="se_mediaArea __se_image_link __se_link" data-linktype="img" data-linkdata='{"imgId" : "SEDOC-1528121737111-1805037381_image_0_img", "src" : "https://post-phinf.pstatic.net/MjAxODA0MjhfMjA0/MDAxNTI0ODU0MTU5Mzc2.vwiXw7YadWr6un534q3FPKuWfZg_BUWKK2EufkhNvO8g.EpTHaE4tqAJ3SpPSVHjVgVzjPaN6FJOKWBZx5Hm25pYg.JPEG/%ED%8C%90%EB%AC%B8%EC%A0%90_%EC%84%A0%EC%96%B8.jpg", "linkUse" : "false", "link" : ""}'>
+                            <img id="SEDOC-1528121737111-1805037381_image_0_img" class="se_mediaImage __se_img_el"  src="https://ssl.pstatic.net/static.post/image/m/im/bg_white.png" data-src="https://post-phinf.pstatic.net/MjAxODA0MjhfMjA0/MDAxNTI0ODU0MTU5Mzc2.vwiXw7YadWr6un534q3FPKuWfZg_BUWKK2EufkhNvO8g.EpTHaE4tqAJ3SpPSVHjVgVzjPaN6FJOKWBZx5Hm25pYg.JPEG/%ED%8C%90%EB%AC%B8%EC%A0%90_%EC%84%A0%EC%96%B8.jpg?type=w1200" width="1000" height="711" data-attachment-id="IoJRw_4ryIniw76sSleG8nE4yAK4" alt="">
+        
+        </a>
+							<div class="se_editView">
+								<div class="se_textView se_mediaCaption">
+                                        <span class="se_textarea">▲ 문재인 대통령과 김정은 위원장이 27일 평화의 집에서 ‘판문점 선언문’에 서명한 뒤 손을 들어 보이고 있다. 사진: 2018 남북정상회담 홈페이지 뉴스룸 ©코리아핫뉴스   </span>
+								</div>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+<div class="se_component se_paragraph default">
+    <div class="se_sectionArea">
+        <div class="se_editArea">
+            <div class="se_viewArea se_ff_nanumgothic se_fs_T3 se_align-left" >
+                <div class="se_editView">
+                    <div class="se_textView">
+                        <p class="se_textarea"><!-- SE3-TEXT { --><br><br>[코리아핫뉴스=김기철 기자]<br><br>문재인 대통령과 김정은 국무위원장의 남북 정상회담의 결과로 이뤄진 '한반도의 평화와 번영, 통일을 위한 판문점 선언'은 공동 발표로 전 세계에 생중계됐다.<br>&nbsp;<br>문 대통령과 김 위원장은 27일&nbsp; 오후&nbsp; 판문점 남측 평화의 집 1층 로비에서 '판문점 선언'을 서명하고 이어 공동발표를 했다.<br>&nbsp;<br>다음은 선언문 전문.<br>&nbsp;<br><span><b>&lt;한반도의 평화와 번영, 통일을 위한 판문점 선언&gt;</b></span><span><br></span><span><br></span>대한민국 문재인 대통령과 조선민주주의인민공화국 김정은 국무위원장은 평화와 번영, 통일을 염원하는 온 겨레의 한결같은 지향을 담아 한반도에서 역사적인 전환이 일어나고 있는 뜻깊은 시기에 2018년 4월 27일 판문점 평화의 집에서 남북정상회담을 진행하였다.<br>&nbsp;<br>양 정상은 한반도에 더 이상 전쟁은 없을 것이며 새로운 평화의 시대가 열리었음을 8천만 우리 겨레와 전 세계에 엄숙히 천명하였다.<br>&nbsp;<br>양 정상은 냉전의 산물인 오랜 분단과 대결을 하루 빨리 종식시키고 민족적 화해와 평화번영의 새로운 시대를 과감하게 열어나가며 남북관계를 보다 적극적으로 개선하고 발전시켜 나가야 한다는 확고한 의지를 담아 역사의 땅 판문점에서 다음과 같이 선언하였다.<br>1. 남과 북은 남북 관계의 전면적이며 획기적인 개선과 발전을 이룩함으로써 끊어진 민족의 혈맥을 잇고 공동번영과 자주통일의 미래를 앞당겨 나갈 것이다.<br>남북관계를 개선하고 발전시키는 것은 온 겨레의 한결같은 소망이며 더 이상 미룰 수 없는 시대의 절박한 요구이다.<br>&nbsp;<br>ⓛ 남과 북은 우리 민족의 운명은 우리 스스로 결정한다는 민족 자주의 원칙을 확인하였으며 이미 채택된 남북 선언들과 모든 합의들을 철저히 이행함으로써 관계 개선과 발전의 전환적 국면을 열어나가기로 하였다.<br>&nbsp;<br>② 남과 북은 고위급 회담을 비롯한 각 분야의 대화와 협상을 빠른 시일 안에 개최하여 정상회담에서 합의된 문제들을 실천하기 위한 적극적인 대책을 세워나가기로 하였다.<br>&nbsp;<br>③ 남과 북은 당국 간 협의를 긴밀히 하고 민간교류와 협력을 원만히 보장하기 위하여 쌍방 당국자가 상주하는 남북공동연락사무소를 개성지역에 설치하기로 하였다.<br>&nbsp;<br>④ 남과 북은 민족적 화해와 단합의 분위기를 고조시켜 나가기 위하여 각계각층의 다방면적인 협력과 교류 왕래와 접촉을 활성화하기로 하였다.<br>&nbsp;<br>안으로는 6.15를 비롯하여 남과북에 다같이 의의가 있는 날들을 계기로 당국과 국회, 정당, 지방자치단체, 민간단체 등 각계각층이 참가하는 민족공동행사를 적극 추진하여 화해와 협력의 분위기를 고조시키며, 밖으로는 2018년 아시아경기대회를 비롯한 국제경기들에 공동으로 진출하여 민족의 슬기와 재능, 단합된 모습을 전 세계에 과시하기로 하였다.<br>&nbsp;<br>⑤ 남과 북은 민족 분단으로 발생된 인도적 문제를 시급히 해결하기 위하여 노력하며, 남북 적십자회담을 개최하여 이산가족·친척상봉을 비롯한 제반 문제들을 협의 해결해 나가기로 하였다.<br>당면하여 오는 8.15를 계기로 이산가족·친척 상봉을 진행하기로 하였다.<br>&nbsp;<br>⑥ 남과 북은 민족경제의 균형적 발전과 공동번영을 이룩하기 위하여 10.4선언에서 합의된 사업들을 적극 추진해 나가며 1차적으로 동해선 및 경의선 철도와 도로들을 연결하고 현대화하여 활용하기 위한 실천적 대책들을 취해나가기로 하였다.<br>2. 남과 북은 한반도에서 첨예한 군사적 긴장상태를 완화하고 전쟁 위험을 실질적으로 해소하기 위하여 공동으로 노력해 나갈 것이다.<br>&nbsp;<br>한반도의 군사적 긴장상태를 완화하고 전쟁위험을 해소하는 것은 민족의 운명과 관련되는 매우 중대한 문제이며 우리 겨레의 평화롭고 안정된 삶을 보장하기 위한 관건적인 문제이다.<br>&nbsp;<br>① 남과 북은 지상과 해상, 공중을 비롯한 모든 공간에서 군사적 긴장과 충돌의 근원이 되는 상대방에 대한 일체의 적대행위를 전면 중지하기로 하였다.<br>&nbsp;<br>당면하여 5월 1일부터 군사분계선 일대에서 확성기 방송과 전단살포를 비롯한 모든 적대 행위들을 중지하고 그 수단을 철폐하며 앞으로 비무장지대를 실질적인 평화지대로 만들어 나가기로 하였다.<br>&nbsp;<br>② 남과 북은 서해 북방한계선 일대를 평화수역으로 만들어 우발적인 군사적 충돌을 방지하고 안전한 어로 활동을 보장하기 위한 실제적인 대책을 세워나가기로 하였다.<br>&nbsp;<br>③ 남과 북은 상호협력과 교류, 왕래와 접촉이 활성화 되는 데 따른 여러 가지 군사적 보장대책을 취하기로 하였다.<br>남과 북은 쌍방 사이에 제기되는 군사적 문제를 지체 없이 협의 해결하기 위하여 국방부장관회담을 비롯한 군사당국자회담을 자주개최하며 5월 중에 먼저 장성급 군사회담을 열기로 하였다.<br>3. 남과 북은 한반도의 항구적이며 공고한 평화체제 구축을 위하여 적극 협력해 나갈 것이다.<br>한반도에서 비정상적인 현재의 정전상태를 종식시키고 확고한 평화체제를 수립하는 것은 더 이상 미룰 수 없는 역사적 과제이다.<br>&nbsp;<br>① 남과 북은 그 어떤 형태의 무력도 서로 사용하지 않을 데 대한 불가침 합의를 재확인하고 엄격히 준수해 나가기로 하였다.<br>&nbsp;<br>② 남과 북은 군사적 긴장이 해소되고 서로의 군사적 신뢰가 실질적으로 구축되는 데 따라 단계적으로 군축을 실현해 나가기로 하였다.<br>&nbsp;<br>③ 남과 북은 정전협정체결 65년이 되는 올해에 종전을 선언하고 정전협정을 평화협정으로 전환하며 항구적이고 공고한 평화체제 구축을 위한 남·북·미 3자 또는 남·북·미·중 4자회담 개최를 적극 추진해 나가기로 하였다.<br>&nbsp;<br>④ 남과 북은 완전한 비핵화를 통해 핵 없는 한반도를 실현한다는 공동의 목표를 확인하였다.<br>남과 북은 북측이 취하고 있는 주동적인 조치들이 한반도 비핵화를 위해 대단히 의의 있고 중대한 조치라는데 인식을 같이 하고 앞으로 각기 자기의 책임과 역할을 다하기로 하였다.<br>남과 북은 한반도 비핵화를 위한 국제사회의 지지와 협력을 위해 적극 노력하기로 하였다.<br>양 정상은 정기적인 회담과 직통전화를 통하여 민족의 중대사를 수시로 진지하게 논의하고 신뢰를 굳건히 하며, 남북관계의 지속적인 발전과 한반도의 평화와 번영, 통일을 향한 좋은 흐름을 더욱 확대해 나가기 위하여 함께 노력하기로 하였다.<br>당면하여 문재인 대통령은 올해 가을 평양을 방문하기로 하였다.<br>&nbsp;<br>2018년 4월 27일 <br>판 문 점<br>대한민국 대통령 문재인·조선민주주의인민공화국 국무위원회 위원장 김정은<br>&nbsp;<!-- } SE3-TEXT --></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<!-- SE_DOC_CONTENTS_END -->
+<div class="__se_doc_title_end" id="se_doc_contents_end"></div>
+<div id="SEDOC-1528121737111-1805037381_se_doc_footer" class="se_doc_footer"></div>
+</div>
+
+
+
+
+
+        window.__mugFnList__.push(function() {
+            !function($, window) {
+                if (mug.common.isDev()) {
+                    console.log("asyncGet funding");
+                }
+                function asyncGet() {
+                    $.ajax({
+                        url: "getSe3FundingView.nhn",
+                        dataType:"html",
+                        data: {
+                            authorNo: "1580855",
+                            seriesNo: "349530"
+                        },
+                        success: function(resultHtml){
+                            if (mug.common.isDev()) {
+                                console.log("asyncGet funding success!!");
+                            }
+                            resultHtml = $.trim(resultHtml);
+                            $("#__tmp_fundingView").replaceWith(resultHtml);
+                            $(window).trigger("viewerFundingLoad");
+                        },
+                        error: function(resp) {
+                            console.log(resp);
+                        }
+                    });
+                }
+                $(window).load(function() {
+                    setTimeout(asyncGet, 1);
+                });
+
+            }(jQuery, window);
+        });
+        
+
+
+
+	window.__mugFnList__.push(function() {
+		!function($, window) {
+			if (mug.common.isDev()) {
+				console.log("asyncGet event");
+			}
+			function asyncGet() {
+				$.ajax({
+					url: "getEventView.nhn",
+					dataType:"html",
+					data: {
+						volumeNo: "15402547",
+						memberNo: "1580855"
+					},
+					success: function(resultHtml){
+						if (mug.common.isDev()) {
+							console.log("asyncGet event success!!");
+						}
+						resultHtml = $.trim(resultHtml);
+						$("#__tmp_eventView").replaceWith(resultHtml);
+						if (resultHtml != "") {
+							try {window.__viewer._resizePan();}catch(e){};
+						}
+						$(window).trigger("viewerEventLoad");
+					},
+					error: function(resp) {
+						console.log(resp);
+					}
+				});
+			}
+			$(window).load(function() {
+				setTimeout(asyncGet, 1);
+			});
+
+		}(jQuery, window);
+	});
+
+
+	
+
+
+
+
+
+
+
+으로 쓴 글입니다. 자세히보기
+
+
+        window.__mugFnList__.push(function() {
+            !function($, window) {
+                if (mug.common.isDev()) {
+                    console.log("asyncGet");
+                }
+                function asyncGet() {
+                    $.ajax({
+                        url: "getRecommendPostView2.nhn",
+                        dataType:"html",
+                        data: {
+                            volumeNo: "15402547",
+                            memberNo: "1580855",
+                            vType: "VERTICAL",
+                            searchKeyword: "",
+                            searchRank: "",
+                            mainMenu: ""
+                        },
+                        success: function(resultHtml){
+                            if (mug.common.isDev()) {
+                                console.log("asyncGet success!!");
+                            }
+                            $("#__tmp_recPostView").replaceWith(resultHtml);
+                            $(".__authorName").text("김기철 기자");
+
+                            if (!!window.__splugin) { //개인화플러그신 갱신
+                                __splugin.init();
+                            } else {
+                                mug.common.Sharer.init();
+                            }
+                            //new LikeUpdater(1).update();	//좋아요 갱신
+                            !!nhn.LikeIt.list.instance && nhn.LikeIt.list.instance.update();
+
+                            var refId = null;
+                            var elBtnLikeEnd = $("#btn_like_end");
+                            if(!!elBtnLikeEnd.length) {
+                                refId = setInterval(function() {
+                                    var welBtn = $("#btn_like_end");
+                                    if(welBtn.length > 0 && welBtn.attr("data-likeit") == 1) {
+                                        !!window.initLikeListBtn && initLikeListBtn();
+                                        clearInterval(refId);
+                                    }
+                                    chanageLikeText();
+                                }, 100);
+
+                            }
+
+
+                            /**
+                             * 댓글폼을 불러온다.
+                             */
+                            setTimeout(function() {
+                                $.ajax({
+                                    url: "/viewer/asyncCommentForm.nhn",
+                                    dataType:"html",
+                                    data: {
+                                        volumeNo: "15402547",
+                                        memberNo: "1580855"
+                                    },
+                                    success: function(html) {
+                                        jQuery("#__tmp_comment_js").html(html);
+                                    }
+                                });
+                            }, 200);
+                        },
+                        error: function(resp) {
+                            console.log(resp);
+                        }
+                    });
+                }
+                function chanageLikeText(){
+                    $('.__like_sp').each(function (i,v) {
+                        var val = $(v).children().last();
+                        if(val.text() == "좋아요"){
+                            val.text("0");
+                        }
+                    });
+                }
+                $(window).load(function() {
+                    setTimeout(asyncGet, 200);
+                });
+            }(jQuery, window);
+        });
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+이전화면으로 가기
+
+
+
+
+
+좋아요 한 사람 보러가기
+덧글
+
+
+
+
+
+
+
+
+
+
+function __fnExecMugFnList__() {
+	if (!!window.__mugFnList__ && __mugFnList__.length > 0) {
+		for (var i = 0, len = __mugFnList__.length; i < len; i++) {
+			if (typeof __mugFnList__[i] == "function") {
+				__mugFnList__[i]();
+				__mugFnList__[i] = null;
+			}
+		}
+	}
+}
+__fnExecMugFnList__();
+
+
+
+    var __likeWebUrl__ = "https://common.like.naver.com";
+
+
+
+
+<div class="__template_editor_warning"> <div class="popup_w pop_link app_link" style="display:block;"> <div class="popup"> <div class="pop_cont"> 포스트앱/PC에서 작성한 글은<br/> 모바일웹에서 수정할 수 없습니다.<br/> 포스트앱에서 수정하시겠습니까? <button type="button" class="btn_t1" onclick="location.href='http://post.naver.com/appLauncher.nhn?scheme=open%3FvolumeNo%3D{=volumeNo}%26memberNo%3D{=memberNo}%26version%3D1'; return false;"><span>앱에서 수정하기</span></button> </div> <button class="btn_close" onclick="jQuery('.__template_editor_warning').remove(); return false;"><i class="blind">팝업닫기</i></button> </div> </div> <div class="dim on"></div> </div>
+
+	<div class="__template_popular_editor_follow"> <div class="popup_layer layer_myfeed_follow"> <div class="cont_area"> <div class="spot"> <img src="https://ssl.pstatic.net/static.post/image/im/layer_myfeed_171129.jpg" alt=""> </div> <div class="cont"> 팔로우하셨군요! <br/>다음 글은 <em>네이버홈 MY구독</em>에서 <br/> 쉽게 받아보세요. </div> </div> <div class="btn_area"> <a href="#" class="btn" onclick="mug.common.nclick(this, 'mfo.close');jQuery('.__template_popular_editor_follow').remove(); return false;">닫기</a> <a href="#" class="btn" onclick="mug.common.nclick(this, 'mfo.add');mug.contents.util.applyMyFeedNoti('1580855', '');">확인</a> </div> </div> <div class="dim on" onclick="mug.common.nclick(this, 'mfo.close');jQuery('.__template_popular_editor_follow').remove(); return false;"></div> </div>
+
+	<div class="__template_popular_editor_follow"> <div class="popup_layer layer_myfeed"> <div class="cont_area"> <div class="spot"> <img src="https://ssl.pstatic.net/static.post/image/im/layer_myfeed_171129.jpg" alt="팔로우하고 MY구독으로 받아보세요."> </div> <div class="cont"> <em>김기철 기자</em>님의 포스트를 <br/> 네이버홈에서 받아보기 </div> <div class="description">팔로우하고 MY구독으로 받아보세요.</div> </div> <div class="btn_area"> <a href="#" class="btn" onclick="mug.common.nclick(this, 'mfo.close2');jQuery('.__template_popular_editor_follow').remove(); return false;">취소</a> <a href="#" class="btn" onclick="mug.common.nclick(this, 'mfo.add2');mug.contents.util.followAndMyFeedNoti('1580855', '', myFeedKey);">확인</a> </div> </div> <div class="dim on" onclick="mug.common.nclick(this, 'mfo.close2');jQuery('.__template_popular_editor_follow').remove(); return false;"></div> </div>
+
+
+!function($, window, document) {
+	function __closeOverflowMenu(delay) {
+		$(document.body).off("click", __closeOverflowMenuEventHandler);
+		delay = delay || 0;
+
+		var fn = function(){
+			var wel = $(".ly_more.__gnb_overview_menu");
+			wel.removeClass("on");
+            wel.siblings("button").attr("aria-expanded", "false");
+			wel.hasClass("on") ? wel.show() : wel.hide();
+		};
+
+		if (/Android 4\.0\./g.test(window.navigator.userAgent)) {
+			fn();
+		} else {
+			setTimeout(fn, delay);
+		}
+	}
+	window.__closeOverflowMenu = __closeOverflowMenu;
+
+
+	function __closeOverflowMenuEventHandler(ev) {
+		if ($(ev.target).parents(".__gnb_overview_menu").length > 0) {	//클릭한 엘리먼트가 메뉴바내 요소인 경우는 닫지않고 유지.
+			return;
+		}
+		__closeOverflowMenu();
+	}
+	window.__closeOverflowMenuEventHandler = __closeOverflowMenuEventHandler;
+
+	function __toggleOverflowMenu(delay) {
+		try {
+			if (__viewer.mode == "preview") {
+				return;
+			}
+		} catch(e) {}
+		delay = delay || 0;
+
+		var fn = function() {
+			var wel = $(".ly_more.__gnb_overview_menu");
+			wel.toggleClass("on");
+			if (wel.hasClass("on")) {
+                wel.siblings("button").attr("aria-expanded", "true");
+				wel.show();
+
+				//뷰어 메뉴바 스크립트에서 처리하고 있으므로 주석처리
+				setTimeout(function() {
+					$(document.body).on("click", __closeOverflowMenuEventHandler); // 바로 event attach하면 이벤트 핸들러까지 실행되어 바로 닫히게 된다;;;
+				}, 0);
+			} else {
+				__closeOverflowMenu();
+			}
+		};
+
+		if (/Android 4\.0\./g.test(window.navigator.userAgent)) {
+			fn();
+		} else {
+			setTimeout(fn, delay);
+		}
+	}
+	window.__toggleOverflowMenu = __toggleOverflowMenu;
+
+	$(".btn_overflow_menu").on("click", function() {
+		__toggleOverflowMenu();
+	});
+	$("#header .gnb button.__series").on("click", function(ev) {
+		ev.preventDefault();
+		location.href = "/my/series/detail.nhn?seriesNo=349530&memberNo=1580855&prevVolumeNo=15402547";
+	});
+
+
+	
+}(jQuery, window, document);
+
+
+	(function($, document, window) {
+		var bInitFollowingStatus = false;
+		
+		function refreshFollowBtnsForSE3(bIsFollowingAuthor) {	
+			//console.log("refreshFollowBtnsForSE3 : bIsFollowingAuthor = " + bIsFollowingAuthor);
+			var bIsFlw = bInitFollowingStatus;
+			if (bIsFollowingAuthor != null) {
+				bIsFlw = bInitFollowingStatus = bIsFollowingAuthor;
+			}
+			
+			var elSe3btn = $(".__se3_follow_btn");	//신규 se3버튼
+			var elSe3Statbtn = $(".__se3_stat_btn");	//신규 se3버튼
+			var elGnbFollowBtn = $(".__followAnchor");	//
+			var elGnbUnFollowBtn = $(".__unfollowAnchor");
+			if (elGnbFollowBtn.length > 0 && elSe3btn.length > 0) {
+				if (!!bIsFlw) {	//팔로잉상태
+					elSe3btn.addClass("on");
+					elSe3btn.find(".se_card_btn_txt").text("팔로잉");
+					if (elSe3btn.hasClass("__card_start_follow") == false) { //se3 카드형 커버일 경우 바꾸지 않음. span 마크업이 남아 있다.
+						elSe3btn.text("팔로잉");
+					}
+					elSe3btn.each(function(idx){
+						this.onclick = function() {
+							var sNclickKey = $(this).attr("data-nclickkey");
+							if (!sNclickKey) {
+								sNclickKey = "tit.unfollow";
+							}
+							mug.common.nclick(elSe3btn[0], sNclickKey);
+							elGnbUnFollowBtn.click();
+							return false;
+						}
+					});
+				} else {
+					elSe3btn.removeClass("on");
+					elSe3btn.find(".se_card_btn_txt").text("팔로우");
+					if (elSe3btn.hasClass("__card_start_follow") == false) { //se3 카드형 커버일 경우 바꾸지 않음. span 마크업이 남아 있다.
+						elSe3btn.text("팔로우");
+					}
+					elSe3btn.each(function(idx){
+						this.onclick = function() {
+							var sNclickKey = $(this).attr("data-nclickkey");
+							if (!sNclickKey) {
+								sNclickKey = "tit.follow";
+							}
+							mug.common.nclick(elSe3btn[0], sNclickKey);
+							elGnbFollowBtn.click();
+							return false;
+						}
+					});
+				}
+			}
+			
+			mug.$.UserAgent.isMobile && elSe3btn.show();
+			
+		}
+		$(window).on("viewerLoad", function(){
+			refreshFollowBtnsForSE3();
+			mug.common.Sharer.init();
+		});
+		window.refreshFollowBtnsForSE3 = refreshFollowBtnsForSE3;
+	})(jQuery, document, window);
+
+
+window.__volumeMetaJson = {
+	volumeStatusType: "PUBLISHED"
+};
+(function($, document, window) {
+	mug.viewer.se3.SimpleViewer.init({
+		volumeNo: 15402547,
+		authorNo: 1580855,
+		protectType: "1",
+		deviceType: "desktop",
+		stickerDomain: "http://m.gfmarket.naver.com",
+		isViewRestrictionLayer: 'false',
+		statUrl: 'https://post.stat.naver.com/post/article/15402547/cv',
+		isAuthorSelf: "false"
+	});
+})(jQuery, document, window);
+
+
+	mug.common._nilSendInfo = {
+		"channelId" : '1580855',
+		"gdid" : '00055f7ca0_0000eb0633',
+		"volumeNo" : '15402547',
+		"isAuthorSelf" : 'false',
+		"isFollowingAuthor" :  'false',
+		"eventCategory" : 'post_view',
+		"seriesNo" : '349530'
+	}
+
+
+
+	<div class="ly_msg" id="__custom_alert_layer" style="z-index:5000;display:none;position:fixed;display:block;-webkit-animation:disappear {=duration}s ease-in-out;-webkit-animation-fill-mode:forwards">
+		<span>{=message}</span>
+	</div>
+
+
+
+!function($) {
+	__appHeaderParams__="";lcs_do();window.nsc="Mpost.home";window.ccsrv="cc.naver.com";$(window).load(function(){});mug.common.util.attachOnError();
+
+	$(document).ready(function() {
+		
+		if (!mug.$.UserAgent.isInapp && !!window.GnbHandler) {
+			new GnbHandler().start();
+		}
+	});
+
+}(jQuery);
+
+
+
+
+	var splog_url = "https://sp.naver.com/sp";
+	BMR.run(splog_url);
+
+
+	window.nsc = "Mpost.viewer";
+
+
+
